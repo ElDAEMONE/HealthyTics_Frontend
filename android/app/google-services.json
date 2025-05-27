@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "664011362681",
+    "firebase_url": "https://healytics-637c8-default-rtdb.firebaseio.com",
+    "project_id": "healytics-637c8",
+    "storage_bucket": "healytics-637c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664011362681:android:22b33dad1481273ea0dfa8",
+        "android_client_info": {
+          "package_name": "com.aries.healthy.tics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvOcjp9zcY5C_JNhfx9yUvnrhGZbz9Ouk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

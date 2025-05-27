@@ -1,0 +1,2 @@
+E:/DJI/Sliit Health 3 COM/mob/HealthyTics/android/app/.cxx/RelWithDebInfo/534l573c/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/DJI/Sliit Health 3 COM/mob/HealthyTics/android/app/.cxx/RelWithDebInfo/534l573c/armeabi-v7a/CMakeFiles/rebuild_cache.dir
